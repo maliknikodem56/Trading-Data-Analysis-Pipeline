@@ -6,7 +6,7 @@ This projects consists of following steps:
 1. Trading data input as an object.
 2. Trading data pushed into a connected SQL base.
 3. The data is pulled from the SQL data base into a python file.
-4. The data is cleaned, visualized and automatically analyzed trough descriptive statistics with statistical tests.
+4. The data is cleaned, visualized and automatically analyzed trough descriptive statistics and statistical tests.
 5. The functions return a result and automatic interpretation.
 6. The data is used to generate a PDF file that includes a report of trading performance.
 
@@ -16,4 +16,5 @@ demotradingclass.py,
 demotrading1.py,
 demtrading1_analysis,
 generate_report.py,
+
 analysis_report.pdf
