@@ -1,7 +1,7 @@
 Trading Data Analysis Pipeline
 
 This is a beginner project made in Python and SQL aiming to help me with my trading data analysis.
-My goal was to find an easier way to collect, store and model my trading performance.
+My goal was to find an easier way to collect, store and model my performance on the markets.
 This projects consists of following steps:
 1. Trading data input as an object.
 2. Trading data pushed into a connected SQL base.
@@ -18,3 +18,4 @@ demtrading1_analysis,
 generate_report.py,
 
 analysis_report.pdf
+
